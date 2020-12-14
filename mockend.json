@@ -1,0 +1,32 @@
+[
+  {
+   
+    "id": 1,
+    "titel": "Todo nr.1",
+    "erledigt": false
+  },
+  {
+  
+    "id": 2,
+    "titel": "Todo nr.2",
+    "erledigt": false
+  },
+  {
+    
+    "id": 3,
+    "titel": "Todo nr.3",
+    "erledigt": false
+  },
+  {
+    
+    "id": 4,
+    "titel": "Todo nr.4 (erledigt als test)",
+    "erledigt": true
+  },
+   {
+	
+    "id": 5,
+    "titel": "Todo nr.5",
+    "erledigt": false
+  }
+]
